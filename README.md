@@ -1,4 +1,4 @@
-## `live site:` https://cinar00-ecommerce-website-responsive.netlify.app/
+## `live site:` shorturl.at/depSW
 
 
 
